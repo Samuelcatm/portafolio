@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-ibm-plex-mono: "IBM Plex Mono";
+  --font-press-start-2p: "Press Start 2P";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --preto-branco: #fff;
+  --color-mediumblue-100: #5d04d9;
+  --color-mediumblue-200: #5300c8;
+  --color-midnightblue: #03318c;
+  --color-lightgray: #d5d5d5;
+  --color-black: #000;
+  --color-blueviolet: #9747ff;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-21xl: 40px;
+  --gap-xl: 20px;
+  --gap-smi: 13px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-33xl: 52px;
+  --padding-10xs: 3px;
+  --padding-21xl: 40px;
+  --padding-23xl: 42px;
+  --padding-12xs: 1px;
+  --padding-3xs: 10px;
+  --padding-sm: 14px;
+  --padding-9xl: 28px;
+  --padding-7xs: 6px;
+  --padding-6xs: 7px;
+  --padding-15xl: 34px;
+  --padding-50xl: 69px;
+  --padding-mid: 17px;
+  --padding-11xs-5: 1.5px;
+  --padding-xs: 12px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-mini: 15px;
+  --br-11xl: 30px;
+  --br-8xs: 5px;
+}
